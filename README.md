@@ -12,4 +12,7 @@ NOIp2017 普及组T2 跳房子（单调队列优化DP）
 三分法板子  
 
 [Luogu P3373](https://www.luogu.org/problemnew/show/P3373)  
-线段树板子（双标记：加和乘）
+线段树板子（双标记：加和乘）  
+
+[Luogu P1099](https://www.luogu.org/problemnew/show/P1099)  
+NOIp2007 提高组T4 树网的核 （优化到$O(n)$）
