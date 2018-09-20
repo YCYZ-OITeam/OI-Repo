@@ -15,4 +15,8 @@ NOIp2017 普及组T2 跳房子（单调队列优化DP）
 线段树板子（双标记：加和乘）  
 
 [Luogu P1099](https://www.luogu.org/problemnew/show/P1099)  
-NOIp2007 提高组T4 树网的核 （优化到$O(n)$）
+NOIp2007 提高组T4 树网的核 （优化到$O(n)$） 
+
+[Luogu P1081](https://www.luogu.org/problemnew/show/P1081)  
+NOIp 2012 Day1 T3 开车旅行  
+倍增的经(du)典(liu)题目，不需要建图
