@@ -1,0 +1,6 @@
+[submodule "OI-repos"]
+	path = OI-repos
+	url = /home/quank/OI-repos
+[submodule "Quank123Wip-OI"]
+	path = Quank123Wip-OI
+	url = /home/quank/Quank123Wip-OI
